@@ -12,5 +12,5 @@
 - 💻 Amo programar.
 - 🎓Gosto de estar sempre aprendendo e também de compartilhar esse conhecimento.
 - ☕ Tenho bastante experiência com Delphi, PHP☕.
-- 👨🏻‍💻 Atualmente estudando Flutter.
+- 👨🏻‍💻 Atualmente estudando Flutter. Embreve sairá do forno um novo dev. mobile.
 - 💻 clodoribeiro38@gmail.com

@@ -13,3 +13,4 @@
 - 🎓Gosto de estar sempre aprendendo e também de compartilhar esse conhecimento.
 - ☕ Tenho bastante experiência com Delphi, PHP☕.
 - 👨🏻‍💻 Atualmente estudando Flutter.
+- 💻 clodoribeiro38@gmail.com

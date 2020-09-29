@@ -4,7 +4,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:clodoribeiro38@gmail.com)](mailto:clodoribeiro38@gmail.com)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClodoaldoRibeiro&layout = compact" alt="ClodoaldoRibeiro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClodoaldoRibeiro&layout=compact&hide=html" alt="ClodoaldoRibeiro" /></p>
+
+
+
+
 
 
 ### Olá! Bem-vind@ ao meu perfil
@@ -13,6 +17,6 @@
 - 🎓 Especialista em Engenharia de Software | 📚 [FACAPE](http://www.facape.br/)
 - 💻 Amo programar.
 - 🎓Gosto de estar sempre aprendendo e também de compartilhar esse conhecimento.
-- ☕ Tenho bastante experiência com Delphi e Estudando Dart e Java.
-- 👨 Atualmente estudando Flutter. Embreve sairá do forno um novo dev. mobile.
+- ☕ Tenho bastante experiência com **Delphi** e Estudando **Dart** e **Java**.
+- 👨 Atualmente estudando **Flutter**. Embreve sairá do forno um novo dev. mobile.
 - 🌎 clodoribeiro38@gmail.com

@@ -10,10 +10,9 @@
 
 ### Olá! Bem-vind@ ao meu perfil
 
-- 👷 Analista de Tecnologia da Informação | 🏤 
+- 👷 Engenheiro de Sotware | 🏤 
 - 🎓 Especialista em Engenharia de Software | 📚 [FACAPE](http://www.facape.br/)
 - 💻 Amo programar.
-- 🎓Gosto de estar sempre aprendendo e também de compartilhar esse conhecimento.
-- ☕ Tenho bastante experiência com **Delphi** e Estudando **Dart** e **Java**.
-- 👨 Atualmente estudando **Flutter**. Embreve sairá do forno um novo dev. mobile.
+- 🎓Gosto de estar aprendendo e compartilhando conhecimento.
+- ☕ Tenho bastante experiência com **Delphi** e atualmente estou aprimorando meus conchecimentos em **Dart**/**Flutter**.
 - 🌎 clodoribeiro38@gmail.com

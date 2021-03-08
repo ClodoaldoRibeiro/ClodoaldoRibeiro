@@ -10,7 +10,7 @@
 
 ### Olá! Bem-vind@ ao meu perfil
 
-- 👷 Analista de Tecnologia da Informação | 🏤 [A M CARGAS LOGÍSTICA](http://www.amcargas.com.br/)
+- 👷 Analista de Tecnologia da Informação | 🏤 
 - 🎓 Especialista em Engenharia de Software | 📚 [FACAPE](http://www.facape.br/)
 - 💻 Amo programar.
 - 🎓Gosto de estar sempre aprendendo e também de compartilhar esse conhecimento.

@@ -12,7 +12,7 @@
 
 - 👷 Engenheiro de Sotware | 🏤 
 - 🎓 Especialista em Engenharia de Software | 📚 [FACAPE](http://www.facape.br/)
-- 💻 Amo programar.
+- 💻 Amo programar!
 - 🎓Gosto de estar aprendendo e compartilhando conhecimento.
-- ☕ Tenho bastante experiência com **Delphi** e atualmente estou aprimorando meus conchecimentos em **Dart**/**Flutter**.
-- 🌎 clodoribeiro38@gmail.com
+- ☕ Engenheiro de Software com foco em Desenvolvimento Mobile utilizando Flutter. Possuo ampla experiência na criação de aplicativos mobile inovadores e de alto desempenho. Meu conhecimento abrange também **Delphi Desktop**, **Java Mobile** e **Java Backend**, além de sólida experiência como **ADVPL Full Stack**. Busco desafios que me permitam aplicar minha expertise e contribuir para o sucesso de projetos ambiciosos.
+

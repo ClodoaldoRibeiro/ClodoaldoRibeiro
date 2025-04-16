@@ -10,7 +10,7 @@
 
 ### Olá! Bem-vind@ ao meu perfil
 
-- 👷 Engenheiro Software Senior| 🏤 
+- 👷 Engenheiro Software Senior | 🏤 
 - 🎓 Especialista em Engenharia de Software | 📚 [FACAPE](http://www.facape.br/)
 - 💻 Amo programar!
 - 🎓Gosto de estar aprendendo e compartilhando conhecimento.
